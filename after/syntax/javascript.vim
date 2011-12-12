@@ -38,3 +38,13 @@ syn keyword javaScriptDomElemFuncs load addTextTrack
 " <video>
 " syn keyword javaScriptDomElemAttrs width height
 syn keyword javaScriptDomElemAttrs videoWidth videoHeight poster
+
+" javascript 1.6
+syn keyword javaScriptRepeat each
+
+" javascript 1.7
+syn keyword javaScriptBranch yield
+syn keyword javaScriptType Iterator
+
+" javascript 1.8.5
+syn keyword javaScriptOperator get set

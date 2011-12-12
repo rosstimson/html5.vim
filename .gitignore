@@ -2,3 +2,4 @@ install.log
 .record
 .mkrecord
 *.vba
+*.DS_STORE

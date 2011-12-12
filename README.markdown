@@ -82,6 +82,7 @@ THE SOFTWARE.
 7. [WAI-ARIA][7]
 8. [IANA Language Sub Tags][8]
 9. [IANA Charset][9]
+10. [Javascript][10]
 
 [html5.vim]:http://www.vim.org/scripts/script.php?script_id=3236
 
@@ -97,4 +98,5 @@ THE SOFTWARE.
 [6]:http://www.w3.org/TR/rdfa-core/
 [7]:http://www.w3.org/TR/wai-aria/
 [8]:http://www.iana.org/assignments/language-subtag-registry
-[9]:http://www.iana.org/assignments/character-sets 
+[9]:http://www.iana.org/assignments/character-sets
+[10]:https://developer.mozilla.org/en/JavaScript
